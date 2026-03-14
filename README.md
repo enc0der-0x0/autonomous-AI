@@ -1,2 +1,2 @@
 # Autonomous-AI
-A local AI that can help in penetration testing or CTF's
+Using a local AI that to help in penetration testing or CTF's
